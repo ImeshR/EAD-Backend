@@ -1,0 +1,49 @@
+# .NET Core specific
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+.vscode/
+.vs/
+.idea/
+
+# Logs
+*.log
+Logs/
+
+# Database
+*.mdf
+*.ldf
+
+# Entity Framework migrations
+Migrations/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Bundle and minified files
+*.bundle.*
+*.min.*
+
+# Npm packages
+node_modules/
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# Publish directory
+wwwroot/
+
+# Secrets
+secrets.json
+
+# macOS files
+.DS_Store
